@@ -1,0 +1,16 @@
+var data = {
+    "questions": [
+      {
+        "answers": [
+          "dances",
+          "danced",
+          "dance",
+          "  dancing"
+        ],
+        "correctAnswer": "4",
+        "point": "10",
+        "questionType": "text",
+        "question": "I am _________ now."
+      }]
+}
+export default data
